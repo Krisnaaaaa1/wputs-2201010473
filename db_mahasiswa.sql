@@ -42,12 +42,12 @@ CREATE TABLE `tbmhs` (
 --
 
 INSERT INTO `tbmhs` (`id`, `nama`, `nim`, `prodi`, `jeniskelamin`, `tgl_lahir`, `idmhs`) VALUES
-(1, 'I Nyoman Budiarsana', '2201010024', 'TI-MDI', 'Laki-Laki', '2023-05-02', 'd41d8cd98f00b204e9800998ecf8427e'),
-(2, 'I Nyoman Budiarsana', '2201010024', 'TI-MDI', 'Laki-Laki', '2023-05-02', 'd41d8cd98f00b204e9800998ecf8427e'),
-(3, 'I Nyoman Budiarsana', '2201010024', 'TI-MDI', 'Laki-Laki', '2023-05-02', '08d029dc5880f5419e94317282f1e46f'),
-(4, 'I Nyoman Budiarsana', '2201010024', 'TI-MDI', 'Laki-Laki', '2023-05-02', '08d029dc5880f5419e94317282f1e46f'),
-(5, 'I Nyoman Budiarsana', '2201010024', 'TI-MDI', 'Laki-Laki', '2023-05-15', '08d029dc5880f5419e94317282f1e46f'),
-(6, 'I Nyoman Budiarsana', '2201010024', 'TI-MDI', 'Laki-Laki', '2023-05-15', '08d029dc5880f5419e94317282f1e46f');
+(1, 'I made krisna jaya ', '2201010473', 'TI-MDI', 'Laki-Laki', '2023-05-02', 'd41d8cd98f00b204e9800998ecf8427e'),
+(2, 'i made krisna jaya', '2201010473', 'TI-MDI', 'Laki-Laki', '2023-05-02', 'd41d8cd98f00b204e9800998ecf8427e'),
+(3, 'I made krisna jaya', '2201010473', 'TI-MDI', 'Laki-Laki', '2023-05-02', '08d029dc5880f5419e94317282f1e46f'),
+(4, 'I made krisna jay', '2201010473', 'TI-MDI', 'Laki-Laki', '2023-05-02', '08d029dc5880f5419e94317282f1e46f'),
+(5, 'I made krisna jay', '2201010473', 'TI-MDI', 'Laki-Laki', '2023-05-15', '08d029dc5880f5419e94317282f1e46f'),
+(6, 'I made krisna jay', '2201010473', 'TI-MDI', 'Laki-Laki', '2023-05-15', '08d029dc5880f5419e94317282f1e46f');
 
 -- --------------------------------------------------------
 
